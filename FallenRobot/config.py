@@ -18,7 +18,7 @@ class Config(object):
 
     SUPPORT_CHAT = "LOVER_MUSIC_SUPPORT_GROUP"  # Your Telegram support group chat username where your users will go and bother you
 
-    TOKEN = "5750558252:AAF9soqjcUYJBjGQdyrjJaalJtHS5TuMT6A"  # Get bot token from @BotFather on Telegram
+    TOKEN = "5624068661:AAG6-2PjEh7djLhxecTgmx5w3GQNpmiqO7w"  # Get bot token from @BotFather on Telegram
 
     TIME_API_KEY = "xyz"  # Get this value from https://timezonedb.com/api
 
@@ -26,11 +26,11 @@ class Config(object):
 
   # Optional fields
     BL_CHATS = [1001839472020]  # List of groups that you want blacklisted.
-    DRAGONS = [5778117994]  # User id of sudo users
-    DEV_USERS = [5778117994]  # User id of dev users
-    DEMONS = [5778117994]  # User id of support users
-    TIGERS = [5778117994]  # User id of tiger users
-    WOLVES = [5778117994]  # User id of whitelist users
+    DRAGONS = [1548904516]  # User id of sudo users
+    DEV_USERS = [1548904516]  # User id of dev users
+    DEMONS = [1548904516]  # User id of support users
+    TIGERS = [1548904516]  # User id of tiger users
+    WOLVES = [1548904516]  # User id of whitelist users
 
     ALLOW_CHATS = True
     ALLOW_EXCL = True
